@@ -1,3 +1,3 @@
-# Tesa Mounting Tool – Orientierung & Bewegung mit BNO055
+Tesa Mounting Tool – Orientation & Motion with BNO055
 
-Dieses Projekt wurde im Rahmen der Cross-Innovation-Class für Tesa entwickelt. Es dient als interaktives Führungssystem für die präzise Anbringung von Tesa Powerstrips entlang einer Wand. Das System erkennt Abweichungen in Orientierung und Bewegung mithilfe des BNO055-Sensors und gibt diese über LEDs visuell aus.
+This project was developed as part of the Cross-Innovation-Class for Tesa. It serves as an interactive guidance system for the precise application of Tesa Powerstrips along a wall. The system detects orientation and motion deviations using the BNO055 sensor and visually indicates them via LEDs.
