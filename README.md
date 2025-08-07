@@ -1,2 +1,3 @@
-# tesa_mountingtool
-Orientierungshilfe und Bewegungskontrolle mit dem BNO055-Sensor zur geraden Applikation von Tesa Powerstrips. Zwei Modi (Wasserwaage / Bewegungsführung), LED-Ausgabe, Quaternions, Kalman-Filter, Kalibrierung und Button-Interface.
+# Tesa Mounting Tool – Orientierung & Bewegung mit BNO055
+
+Dieses Projekt wurde im Rahmen der Cross-Innovation-Class für Tesa entwickelt. Es dient als interaktives Führungssystem für die präzise Anbringung von Tesa Powerstrips entlang einer Wand. Das System erkennt Abweichungen in Orientierung und Bewegung mithilfe des BNO055-Sensors und gibt diese über LEDs visuell aus.
